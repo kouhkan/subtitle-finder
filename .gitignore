@@ -170,5 +170,6 @@ static/*
 
 .pre-commit-config.yaml
 *proxies.txt*
+
 *.csv
 *.db
