@@ -167,22 +167,7 @@ static/*
 # editor
 .vscode
 .DS_Store
-apps/.DS_Store
-apps/AI_writer/.DS_Store
-apps/authentication/.DS_Store
-apps/codes/.DS_Store
-apps/engine/.DS_Store
-apps/grammar/.DS_Store
-apps/highlight/.DS_Store
-apps/history/.DS_Store
-apps/image/.DS_Store
-apps/subscription/.DS_Store
-apps/template/.DS_Store
-apps/translate/.DS_Store
-apps/upload/.DS_Store
-apps/user/.DS_Store
-core/.DS_Store
-generate/.DS_Store
+
 .pre-commit-config.yaml
 *proxies.txt*
 *.csv
